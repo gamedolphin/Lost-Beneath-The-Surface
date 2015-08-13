@@ -8,3 +8,8 @@ Colliding with a horror without wearing a helmet is instant death. You can find 
 Each maze is larger than the last one and is created randomly. Maze generation code is not mine.
 
 Made using the Phaser framework. <3
+
+LICENSE
+===================
+
+Provided under the [GPL v3](http://opensource.org/licenses/GPL-3.0).
